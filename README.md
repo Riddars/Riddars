@@ -11,7 +11,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Арсен_Саркисян-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Riddarsi) [![mail.ru Badge](https://img.shields.io/badge/-@mail.ru-blue)](mailto:s-arsen01@mail.ru)
 ---
 
-
+![Пример гифки](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)
 
 ### Рад видеть вас здесь!  
 Я разработчик. Ознакомиться со списком моих работ и их описанием можно по этой [ссылке]()
