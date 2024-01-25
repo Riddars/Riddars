@@ -1,4 +1,4 @@
-![image](https://github.com/Riddars/Riddars/assets/80139269/4ad44f70-7d3e-409a-904c-d63a4996c40b)## Здравствуйте, 👋 меня зовут Арсен!  
+## Здравствуйте, 👋 меня зовут Арсен!  
   
 <a href="https://github.com/Riddars" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
