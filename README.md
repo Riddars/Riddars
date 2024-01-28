@@ -75,7 +75,10 @@
 
 ----
 <details>
-  <summary>Название вашей вкладки</summary>
+  <summary>Сертификаты моих активностей.</summary>
   
-  Здесь может быть любой контент, который будет скрыт по умолчанию.
+  ![image](https://github.com/Riddars/Riddars/assets/80139269/dcebedcb-389e-4043-af85-fcc98ac8bcbe)
+  ![image](https://github.com/Riddars/Riddars/assets/80139269/c0b18ba7-8423-4117-8929-c71b9f59a2e4)
+
+
 </details>
