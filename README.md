@@ -83,8 +83,6 @@
 
 **ПИШ** - Федеральный проект Министерства науки и высшего образования, в котором принимают участие ведущие российские вузы и отечественные компании.
 
-<details>
-  
 ## Сертификаты моих активностей
   
   ![image](https://github.com/Riddars/Riddars/assets/80139269/dcebedcb-389e-4043-af85-fcc98ac8bcbe)
@@ -94,5 +92,3 @@
   ![4ade10a2-3b14-48df-b4a5-a528aa832d6f](https://github.com/Riddars/Riddars/assets/80139269/f453b3ee-0828-415b-96f1-591c94be96bb)
   ![5f307b5f-862c-4c26-8d98-be187aaeeb82](https://github.com/Riddars/Riddars/assets/80139269/5f03c01e-3ebb-4cd6-9ad2-38e1239c7244)
 
-
-</details>
