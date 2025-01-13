@@ -79,15 +79,18 @@
 **ПИШ** - Федеральный проект Министерства науки и высшего образования, в котором принимают участие ведущие российские вузы и отечественные компании.
 
 ## Сертификаты моих активностей
-  
-  ![image](https://github.com/Riddars/Riddars/assets/80139269/dcebedcb-389e-4043-af85-fcc98ac8bcbe)
-  ![image](https://github.com/Riddars/Riddars/assets/80139269/c0b18ba7-8423-4117-8929-c71b9f59a2e4)
-  ![f997399d-2cdd-4fc2-a13b-5a6ae050d245](https://github.com/Riddars/Riddars/assets/80139269/6bd25f66-d995-4aa6-b213-96fbedd7e6cb)
-  ![079935cb-0fe6-432e-bbb5-6829453e4bbe](https://github.com/Riddars/Riddars/assets/80139269/667396a5-4d42-4fc6-a8f2-ef2dd33d22f8)
-  ![4ade10a2-3b14-48df-b4a5-a528aa832d6f](https://github.com/Riddars/Riddars/assets/80139269/f453b3ee-0828-415b-96f1-591c94be96bb)
-  ![5f307b5f-862c-4c26-8d98-be187aaeeb82](https://github.com/Riddars/Riddars/assets/80139269/5f03c01e-3ebb-4cd6-9ad2-38e1239c7244)
-  ![e8037353-c785-4f3a-a90a-a870bc786d5c](https://github.com/Riddars/Riddars/assets/80139269/8a5f16f8-3dd4-44eb-a77f-a86589a02658)
-  ![91f599e2-f710-48c6-aa65-735122a52901](https://github.com/Riddars/Riddars/assets/80139269/af4487ce-9717-4204-8710-f8cf9ccc9f4a)
+<details>
+  <summary>Открыть сертификаты</summary>
+   <img src="https://github.com/user-attachments/assets/05260e6e-cb86-49fd-bccb-d142ae24d80f">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/dcebedcb-389e-4043-af85-fcc98ac8bcbe">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/c0b18ba7-8423-4117-8929-c71b9f59a2e4">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/6bd25f66-d995-4aa6-b213-96fbedd7e6cb">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/667396a5-4d42-4fc6-a8f2-ef2dd33d22f8">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/f453b3ee-0828-415b-96f1-591c94be96bb">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/5f03c01e-3ebb-4cd6-9ad2-38e1239c7244">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/8a5f16f8-3dd4-44eb-a77f-a86589a02658">
+  <img src="https://github.com/Riddars/Riddars/assets/80139269/af4487ce-9717-4204-8710-f8cf9ccc9f4a">
+</details>
 
 
 
