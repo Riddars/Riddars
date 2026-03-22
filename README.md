@@ -1,96 +1,76 @@
-## Здравствуйте, меня зовут Арсен!  
-  
-  
-[![Telegram Badge](https://img.shields.io/badge/-Арсен_Саркисян-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Riddarsi) почта - sarkisyan@scamt-itmo.ru
----
+## Привет, меня зовут Арсен! 👋
 
-![Пример гифки](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)
+[![Telegram Badge](https://img.shields.io/badge/-Арсен_Саркисян-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Riddarsi) [![Email Badge](https://img.shields.io/badge/-sarkisyan@scamt--itmo.ru-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarkisyan@scamt-itmo.ru)
 
-### Рад видеть вас здесь!  
-#### Я разработчик. Ознакомиться с моими проектами можно по этой *[ссылке](https://github.com/Riddars/Check_List/blob/main/README.md)*
+Python-разработчик и Data Engineer. Специализируюсь на создании инфраструктуры данных, Backend-разработке (FastAPI) и RAG-системах.
+Соавтор статьи на **NeurIPS 2025**.
 
-Мой путь в IT начался в 2019 году, когда я поступил на направление "Прикладная информатика в экономике"  
-в Кузбасский государственный технический университет имени Т. Ф. Горбачёва (КузГТУ) (2019-2023).  
-За 4 года обучения я успешно закончил бакалавриат и многое узнал.
-
----
-### Образование
-  
-**КузГТУ** (2019-2023)  
-Бакалавриат: "Прикладная информатика в экономике"  
-- [X] **Веб-разработка**
-- [X] **Работа с реляционными базами данных (СУБД MS SQL)**
-- [X] **Работа с нейронными сетями**
-- [X] **Создание ботов для Telegram и VK**
-- [X] **Работа с 1С бухгалтерией**
-- [X] **Работа с языковыми моделями**
-- [X] **ООП, алгоритмы**
-
-**НИУ ИТМО** (2023-2025)  
-Магистратура: "Химия и искусственный интеллект"  
-- [X] **Нейронные сети, машинное обучение, языковые модели**
-- [X] **Предобработка данных, работа с большими данными, парсинг**
-
----
-  
-### Профессиональный опыт
-#### VARISCIENCE | Менеджер по развитию бизнеса (июль 2024- март 2025)  
-_Молодая компания, специализирующаяся на создании инновационных программных решений на основе ИИ для химической индустрии_  
-
-- Провёл анализ потребностей рынка, определив ключевые сегменты и целевую аудиторию.  
-- Разработал ценностное предложение и стратегию продвижения, что позволило увеличить узнаваемость компании на рынке B2B.   
-- Привлёк крупного клиента с капитализацией **более 800 млрд руб.**  
-
-#### "Лига Роботов" | Преподаватель/Веб-разработчик (июнь 2022- июль 2023)  
-_Международная школа робототехники и программирования_  
-
-- Проводил занятия по программированию.  
-- Модернизировал пользовательский интерфейс веб-сайта.  
-- Обеспечивал бесперебойную работу веб-сайта организации.  
+Работаю в Центре ИИ в химии (ИТМО) под менторством эксперта из **D ONE AG**, перенимая лучшие европейские инженерные практики.
 
 ---
 
-### Ключевые компетенции
-#### Технические навыки
-- **Python**: Pandas, REST API (Flask, FastAPI), работа с библиотеками для анализа данных
-- **ML/DS**: Опыт внедрения готовых решений на базе TensorFlow/Keras
-- **Базы данных**: Базовые навыки SQL, опыт работы с реляционными БД (MySQL)
-- **Инструменты**: Git, Docker, Jupyter Notebook, Kaggle
+### Актуальный опыт и проекты
 
-#### Предметные области
-- Разработка и внедрение REST API
-- Автоматизация процессов с использованием Python
-- Применение языковых моделей для решения бизнес-задач
-- Анализ данных и визуализация результатов
+#### Центр ИИ в химии (SCAMT ITMO) | Инженер / Data Engineer
+*Реализация коммерческих и инфраструктурных проектов.*
 
-  
+🔹 **Предиктивная система для ПАО «Газпром нефть»** (Lead Dev)
+*   Спроектировал с нуля архитектуру приложения для прогнозирования эффективности хим. реагентов.
+*   Настроил ETL-процессы и интеграцию с ML-моделями. Проект успешно сдан заказчику.
 
+🔹 **Экосистема научных данных ChemX**
+*   **Data Engineering:** Построил ELT-пайплайны (dbt), спроектировал хранилище (PostgreSQL, схема "Звезда"). Объединил 10+ источников данных.
+*   **Backend:** Разработал REST API на FastAPI и клиентскую библиотеку `chemx-client`.
+*   **DevOps:** Настроил CI/CD через GitHub Actions и pre-commit хуки.
 
-## Языки и инструменты 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"/></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40"/></a>   
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40"/></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40"/></a>  
+🔹 **Система оценки RAG-ассистента**
+*   Разработал модуль валидации LLM-ответов с гибридными метриками (Ragas, DeepEval + кастомные метрики).  
+*   Внедрил подход **LLM-as-a-Judge** (10 диагностических классификаторов) и механизм чекпоинтов для отказоустойчивости.   
+
+---
+
+#### Предыдущий опыт
+<details>
+<summary>Развернуть историю</summary>
+
+**VARISCIENCE | Менеджер по развитию бизнеса** (2024–2025)
+*   Разработал стратегию продвижения B2B, привлек клиента с капитализацией >800 млрд руб.
+
+**Лига Роботов | Преподаватель / Веб-разработчик** (2022–2023)
+*   Модернизация UI сайта, обучение программированию.
+</details>
+
+---
+
+### Технический стек
+
+**Languages & Frameworks:**
+Python (Pandas, NumPy), FastAPI, Flask, dbt (data build tool).
+
+**Data & ML:**
+SQL (PostgreSQL, MySQL), TensorFlow/Keras, RAG Systems, LLM-as-a-Judge.
+
+**Tools & DevOps:**
+Git, Docker, GitHub Actions, Jupyter.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,bash,tensorflow,md" alt="Tech Stack" />
 </div>
 
-<br/>  
+---
 
+### Образование и Достижения
 
-<br/>  
+**НИУ ИТМО** (2023–2025) | Магистратура: "Химия и искусственный интеллект"  
+**КузГТУ** (2019–2023) | Бакалавриат: "Прикладная информатика в экономике"  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Riddars&&style=flat-square)  
-  
-<br/>  
+**Диплом о проф. переподготовке:** Специалист по большим данным (Профстандарт 06.042).  
 
-<br />
+**Научные публикации:**
+*   **NeurIPS 2025:** Соавтор статьи *"Benchmarking Agentic Systems in Automated Scientific Information Extraction with ChemX"*.
+*   [Статья о моих проектах в ПИШ](https://vk.com/wall-217253520_685).
 
-----
+---
 
 # Сертификаты и активности
 Я регулярно учавствую в различных хакатонах и акселераторах, а также реализую свой стартап, ниже можно посмотреть некоторые из моих достижений.
