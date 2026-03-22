@@ -1,5 +1,8 @@
 ## Привет, меня зовут Арсен! 👋
 
+![Знания - сила](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)
+
+
 [![Telegram Badge](https://img.shields.io/badge/-Арсен_Саркисян-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Riddarsi) [![Email Badge](https://img.shields.io/badge/-sarkisyan@scamt--itmo.ru-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarkisyan@scamt-itmo.ru)
 
 Python-разработчик и Data Engineer. Специализируюсь на создании инфраструктуры данных, Backend-разработке (FastAPI) и RAG-системах.
