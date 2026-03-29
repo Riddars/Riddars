@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Арсен_Саркисян-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Riddarsi) [![Email Badge](https://img.shields.io/badge/-sarkisyan@scamt--itmo.ru-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarkisyan@scamt-itmo.ru)
 
 Python-разработчик и Data Engineer. Специализируюсь на создании инфраструктуры данных, Backend-разработке (FastAPI) и RAG-системах.
-Соавтор статьи на **NeurIPS 2025**.
+Соавтор статьи на [**NeurIPS 2025**](https://neurips.cc/virtual/2025/loc/mexico-city/poster/121668).
 
 Работаю в Центре ИИ в химии (ИТМО) под менторством эксперта из **D ONE AG**, перенимая лучшие европейские инженерные практики.
 
